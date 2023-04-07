@@ -21,11 +21,11 @@ Terminal 3 is built with the following technologies:
 - Blowfish
 
 ### Team
-- **AI Engineer** Masa[@masacao](github.com/masacao)
-- **Front-end Engineer** Allen[@ECNUwyzZL](github.com/ECNUwyzZL)
-- **Back-end Engineer** Joze[@joze144](github.com/joze144)
+- **AI Engineer** Masa[@masacao](https://github.com/masacao)
+- **Front-end Engineer** Allen[@ECNUwyzZL](https://github.com/ECNUwyzZL)
+- **Back-end Engineer** Joze[@joze144](https://github.com/joze144)
 - **Product Manager** Jialin
-- **UIUX** Youyou[@youyou0921](github.com/youyou0921)
+- **UIUX** Youyou[@youyou0921](https://github.com/youyou0921)
 
 ### Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.

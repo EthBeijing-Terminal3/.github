@@ -11,6 +11,8 @@ Clone extension repository, build code, and add Chrome extension to your browser
 - ✅ Integration with multiple exchanges and wallets
 - ✅ Personalized user experience with customizable settings
 
+![Project Screenshot](https://terminal3.s3.us-west-1.amazonaws.com/imgs/%E5%8A%9F%E8%83%BD%E8%AE%BE%E7%BD%AE%E9%A1%B5%E9%9D%A2.png)
+
 ### Technologies
 Terminal 3 is built with the following technologies:
 

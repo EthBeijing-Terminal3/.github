@@ -1,4 +1,4 @@
-## Terminal 3 ⭐️
+<h2 align="center">Terminal 3 ⭐️</h2>
 Terminal 3 is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
 
 ### Usage
@@ -32,3 +32,6 @@ Terminal 3 is built with the following technologies:
 
 ### Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+### Open Source
+Terminal 3 is dedicated to open-source development, promoting transparency and community collaboration.

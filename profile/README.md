@@ -1,5 +1,5 @@
-<h2 align="center">Terminal 3 ⭐️</h2>
-Terminal 3 is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
+<h2 align="center">TermiX ⭐️</h2>
+TermiX is a chat bot designed for crypto veterans and new users alike, to find information, execute transactions, and to get informed of potential risks and vulnerabilities when navigating crypto world. It's a Web3 companion you've always wanted.
 
 ### Usage
 Clone extension repository, build code, and add Chrome extension to your browser.
